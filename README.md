@@ -1,3 +1,16 @@
-# End-to-end deployment of Autonomous Driving: Utilizing Advanced Deep Learning Models with Dynamic Capsule and Self-Attention Mechanism for Behavioral Cloning driven Steering Angle Prediction
 
-This is a study on developing a self-driving car within the Udacity simulator. The research focuses on employing Convolutional Neural Networks (CNN) enhanced with dynamic capsule layers and self-attention mechanisms to replicate human driving behaviors for autonomous navigation. The authors address the challenge of generalizing the neural network to various driving scenarios through meticulous data curation, extensive testing, and the application of data augmentation techniques. Results demonstrate the model's capability to adapt and perform under different conditions, supported by advanced data management and processing technologies like MongoDB, Databricks, and Apache Spark. This work contributes to the field by showcasing effective integration of deep learning technologies in simulating and improving autonomous driving systems
+# **Autonomous Driving: End-to-End Deployment 🚗💡**  
+*Utilizing Advanced Deep Learning with Dynamic Capsule Networks & Self-Attention for Steering Angle Prediction*  
+
+##  **Overview**  
+This project implements an **end-to-end autonomous driving system** using **deep learning-based behavioral cloning** for **steering angle prediction**. The model leverages **Dynamic Capsule Networks and Self-Attention Mechanisms** to enhance feature extraction and decision-making. The final model is deployed for real-time inference to simulate autonomous driving behavior.  
+
+##  **Features**  
+ **End-to-End Learning** – Uses raw images as input and predicts optimal steering angles.  
+ **Advanced Deep Learning Models** – Implements **Dynamic Capsule Networks** for spatial awareness and **Self-Attention Mechanisms** for improved context understanding.  
+ **Real-Time Inference** – Deploys the trained model for live autonomous driving simulation.  
+ **Behavioral Cloning** – Learns from human driving behavior to make safe and smooth driving decisions.  
+ **Edge Deployment Ready** – Optimized for efficient inference on embedded devices like NVIDIA Jetson.  
+
+
+
